@@ -31,7 +31,6 @@ group :test do
   gem 'remarkable_activerecord', '3.1.13'
 end
 
-
 # Use unicorn as the web server
 # gem 'unicorn'
 
